@@ -76,3 +76,44 @@ body.fotos #navegacao a#fotos{
 	cursor: text;
 }
 
+/* Config Layout 3 colunas */
+
+#conteudo{
+	margin-top: 60px;
+	background: #f5f5f5;
+}
+
+#primario{
+	width: 270px;
+	float: left;
+	margin: 0 0 20px 195px;
+	background: blue;
+}
+
+#secundario{
+	width: 270px;
+	float: left;
+	margin: 0 0 20px 15px;
+	background: green;
+}
+
+#lateral{
+	width: 180px;
+	float: left;
+	margin: 0 0 20px -750px;
+	background: yellow;
+}
+
+/* Rodapé */
+
+#container-rodape{
+	background: #294c71;
+	padding: 20px;
+}
+
+#rodape{
+	width: 750px;
+	margin: 0 auto;
+	color: #fff;
+	text-align: center;
+}
